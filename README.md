@@ -5,6 +5,6 @@ Welcome to my approach to solving Danny Ma's 8 Week SQL Challenge as part of my 
 Without installing a database management system or acquiring a database administrator, there is still ways to learn and practice SQL skill.
 <br>For this challenge, I have employed SQLite on Jupyter Notebook to present my solutions.
 <br>I believe there is no perfect solution to anything and everything but there is always room for improvement.
-<br>Therefore, I would appreciate any feedback given so feel free to drop any comments/thoughts on my solutions! 
+<br>Therefore, I would appreciate any feedback given so feel free to drop any comments/thoughts on my solutions on [LinkedIn](https://www.linkedin.com/in/jaslyn-t-9a5814120/)!
 
 Visit [#8WeekSQLChallenge](https://8weeksqlchallenge.com/) if you would like to check out the challenge!
